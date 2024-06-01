@@ -1,2 +1,3 @@
 # urlslideshow
 chrome extension to show urls in a rotation.
+Hi WiLL YOU BE SO KIND TO PUT AN FREEZE OR BREAL OPTION ON THE SLIDESHWO WHEN YOU HIT THE SPACEBAR? OF ANY OTHER KY? tHANKS
